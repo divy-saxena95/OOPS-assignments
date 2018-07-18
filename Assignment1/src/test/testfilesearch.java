@@ -1,9 +1,4 @@
 package test;
-
-
-
-
-
 import searchingfile.filesearch2;
 
 import org.junit.After;
